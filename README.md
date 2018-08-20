@@ -7,6 +7,7 @@ general introduction and overview
 * [input analysis](#input-analysis)
 * [part-task](#part-task)
 * [recap](#recap)
+* [helpful links](#helpful-links)
 
 ___
 
@@ -46,7 +47,16 @@ ___
 
 Summarize what you've learned and struggled with studying this function.
 
-include links to any helpful resources you found on the web
+___
+
+## Helpful Links
+
+* [module.exports](https://github.com/elewa-academy/module-dot-exports/tree/master)
+* [testing 101](https://github.com/elewa-academy/testing-101) 
+  * [Tressa: code coverage](https://medium.com/@WebReflection/js-vanilla-test-code-coverage-7b7ba3740776)  
+  * [Tressa: tressa](https://medium.com/@WebReflection/vanilla-js-testing-part-ii-63b9d736121)
+* [pure functions, easy testing](https://medium.com/@WebReflection/vanilla-js-testing-part-ii-63b9d736121)
+
 
 ___
 ___
