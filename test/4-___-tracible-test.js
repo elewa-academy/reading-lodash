@@ -1,7 +1,7 @@
-let assert = require('tressa');
-let cases = require('./test-cases');
+const assert = require('tressa');
+const cases = require('./test-cases');
 
-let ____tracible = require("./4-___-tracible.js");
+const ____tracible = require("./4-___-tracible-test.js");
 
 assert.title('____tracible');
 

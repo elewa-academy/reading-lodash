@@ -7,5 +7,9 @@
     "test": "node test"
   },
   "author": "colevandersWands",
-  "license": "SEE LICENSE IN LICENSE"
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "tressa": "^0.3.1"
+  }
 }

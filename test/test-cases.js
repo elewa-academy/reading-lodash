@@ -1,6 +1,4 @@
-let test_cases = [
+module.exports = [
 	// [args] is an array for spreading 
 	{input: [], expected: null, message: "string"},
 ];
-
-module.exports = test_cases;

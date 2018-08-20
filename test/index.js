@@ -1,3 +1,3 @@
-require("./0-___.js");
-require("./2-___-chunked.js");
-require("./0-___-tracible.js");
+require("./0-___-test.js");
+require("./2-___-recator-test.js");
+require("./0-___-tracible-test.js");

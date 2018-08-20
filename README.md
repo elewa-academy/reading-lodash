@@ -51,6 +51,8 @@ ___
 
 ## Helpful Links
 
+* [completed example](https://github.com/elewa-academy/reading-padStart)
+
 * [module.exports](https://github.com/elewa-academy/module-dot-exports/tree/master)
 * [testing 101](https://github.com/elewa-academy/testing-101) 
   * [Tressa: code coverage](https://medium.com/@WebReflection/js-vanilla-test-code-coverage-7b7ba3740776)  
