@@ -51,6 +51,7 @@ ___
 
 ## Helpful Links
 
+* [the guide](https://github.com/elewa-academy/reading-lodash-guide)
 * [completed example](https://github.com/elewa-academy/reading-padStart)
 
 * [module.exports](https://github.com/elewa-academy/module-dot-exports/tree/master)
