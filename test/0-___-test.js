@@ -2,7 +2,7 @@ const assert = require('tressa');
 
 const cases = require('./test-cases');
 
-const ___ = require("../0-___-test.js");
+const ___ = require("../0-___.js");
 
 assert.title('___');
 
